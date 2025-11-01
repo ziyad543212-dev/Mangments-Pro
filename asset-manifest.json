@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mangments-Pro/static/css/main.dd05aa84.css",
+    "main.js": "/Mangments-Pro/static/js/main.acea215c.js",
+    "index.html": "/Mangments-Pro/index.html",
+    "main.dd05aa84.css.map": "/Mangments-Pro/static/css/main.dd05aa84.css.map",
+    "main.acea215c.js.map": "/Mangments-Pro/static/js/main.acea215c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd05aa84.css",
+    "static/js/main.acea215c.js"
+  ]
+}
